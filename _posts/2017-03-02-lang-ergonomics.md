@@ -80,7 +80,7 @@ There are three dimensions of the reasoning footprint for implicitness:
 - **Power**. What influence does the elided information have? Can it radically
   change program behavior or its types?
 
-- **Context-dependence**. How much of do you have to know about the rest of the
+- **Context-dependence**. How much do you have to know about the rest of the
   code to know what is being implied, i.e. how elided details will be filled in?
   Is there always a clear place to look?
 
